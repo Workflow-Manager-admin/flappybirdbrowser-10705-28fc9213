@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/flappybirdbrowser-10705-28fc9213/game_frontend"
+}
